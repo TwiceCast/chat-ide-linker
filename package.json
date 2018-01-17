@@ -1,0 +1,24 @@
+{
+  "name": "linker_server",
+  "version": "1.0.0",
+  "description": "Linker server used to manage links in website",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "socket.io": "^1.7.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node linker_server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TwiceCast/chat_server.git"
+  },
+  "author": "TwiceCast",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TwiceCast/chat_server/issues"
+  },
+  "homepage": "https://github.com/TwiceCast/chat_server#readme"
+}
